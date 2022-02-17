@@ -28,6 +28,9 @@ dataBase = mysql.connector.connect(
 OR
 under #sql change report to (your_tablename)
 
+my sql table......
+
+
 Limitations
 (i)Programme will throw an error when wrong datatype is entered
 for eg. a string in place of an integer
