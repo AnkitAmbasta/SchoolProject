@@ -29,6 +29,16 @@ OR
 under #sql change report to (your_tablename)
 
 my sql table......
+ create table report
+(RollNo int not null primary key,
+Name varchar(30) not null,
+Physics decimal not null,
+Chemistry decimal not null,
+Maths decimal not null,
+English decimal not null,
+CS decimal not null,
+Total decimal,
+Percentage decimal);
 
 
 Limitations
